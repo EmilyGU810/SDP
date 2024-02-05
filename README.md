@@ -1,6 +1,6 @@
 # San Diego Padres Batting &amp; Pitching (1969-2023) Tableau Dashboard
 
-The datasets, Tableau workbook, and a PDF version of the dashboard are included. You can use the PDF version to make it easier for you.
+The datasets, Tableau workbook, and a PDF version of the dashboard are included.
 
 The dashboard provides a comprehensive analytical evaluation on both the team and individual levels.
 
